@@ -6,3 +6,4 @@
 * DURATION : 4 WEEKS
 * MENTOR : NEELA SANTOSH
 * ##YOU HAVE TO ENTER DESCRIOTION OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+* OUTPUT : ![Image](https://github.com/user-attachments/assets/1c6bee03-c920-4fab-9f2b-ccf99b881ffa)
